@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ganesh Man Koiri</h1>
 <p align="center">
-  I'm a passionate and driven <strong>DevOps Engineer</strong> with a strong foundation in cloud technologies, automation, and infrastructure as code. I thrive on solving complex problems by designing scalable, efficient, and resilient systems that bridge the gap between development and operations.
+  I’m a passionate DevOps Engineer skilled in cloud technologies, automation, and infrastructure as code. I specialize in building CI/CD pipelines, orchestrating containers with Kubernetes, and automating infrastructure with Terraform. Always eager to learn and innovate, I aim to deliver scalable, reliable solutions while fostering collaboration. Let’s build the future of DevOps together! 🚀
 </p>
 
-<p align="center">
-  Whether it's building robust CI/CD pipelines, orchestrating containers with Kubernetes, or automating infrastructure with Terraform, I'm always eager to learn, innovate, and contribute to cutting-edge solutions. My goal is to deliver seamless, reliable, and scalable software delivery processes while fostering collaboration and continuous improvement.
-</p>
-
-<p align="center">
-  Let's connect and build the future of DevOps together! 🚀
-</p>
+- 🌱 **Learning:** DevOps & Cloud-DevOps (Docker, Kubernetes, Terraform, CI/CD).  
+- 👨‍💻 **Projects:** [GitHub](https://github.com/Ganeshmankoiri) – Automation & cloud-native solutions.  
+- 💼 **LinkedIn:** [(LinkedIn)](https://www.linkedin.com/in/ganesh-man-koiri-b722aa229) – Let’s connect and grow together!  
+- 💬 **Ask Me About:** DevOps, Cloud-DevOps, and related tech.  
+- 📫 **Reach Me:** Email at **ganeshman1515@gmail.com**. Let’s collaborate!   
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
