@@ -118,7 +118,7 @@
 ---
 
 ### 🌟 **Featured Projects**
-- **[Project 1](#):** A fully automated CI/CD pipeline using Jenkins and Kubernetes.
+- **[Project 1](https://github.com/Ganeshmankoiri/wanderlust/blob/DevOps/README.md):** Deployment of a 3-Tier Application on AWS EC2
 - **[Project 2](#):** Terraform modules for multi-cloud infrastructure provisioning.
 - **[Project 3](#):** A Dockerized microservices architecture for scalable apps.
 
