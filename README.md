@@ -1,34 +1,121 @@
 <h1 align="center">Hi 👋, I'm Ganesh Man Koiri</h1>
-<h3 align="center">A passionate DevOps Engineer </h3>
+<p align="center">
+  I'm a passionate and driven <strong>DevOps Engineer</strong> with a strong foundation in cloud technologies, automation, and infrastructure as code. I thrive on solving complex problems by designing scalable, efficient, and resilient systems that bridge the gap between development and operations.
+</p>
+
+<p align="center">
+  Whether it's building robust CI/CD pipelines, orchestrating containers with Kubernetes, or automating infrastructure with Terraform, I'm always eager to learn, innovate, and contribute to cutting-edge solutions. My goal is to deliver seamless, reliable, and scalable software delivery processes while fostering collaboration and continuous improvement.
+</p>
+
+<p align="center">
+  Let's connect and build the future of DevOps together! 🚀
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ganeshmankoiri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmankoiri" /> 
+  <img src="https://komarev.com/ghpvc/?username=ganeshkoiri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkoiri" /> 
 </p>
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible">
+<p align="left"> 
+<!-- Linux -->  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  
+<!-- AWS -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  
+<!-- Kubernetes -->  
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+
+<!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="40" height="40"/> 
+</a>
+
+<!-- SonarQube -->
+<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
+</a>
+
+<!-- ArgoCD -->
+<a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+</a>
+
+<!-- Python --> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+
+<!-- Nginx -->
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+  
+<!-- Apache -->
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> 
+</a>
+  
+<!-- Golang(Go) -->
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  
+<!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  
+ <!-- MongoDB --> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a
+                                                                                                                            <!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    
+<!-- NodeJs -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
+
+
 
 ---
 
-### 🚀 **What I Do**
-- **Automate Everything:** CI/CD pipelines, Infrastructure as Code (IaC), and beyond.
-- **Cloud Architect:** Designing scalable and resilient cloud-native solutions.
+### 🚀 **What I Do As A DevOps Engineer**
+- **Version Control Guru:** Mastering Git workflows for seamless collaboration.
 - **Container Orchestrator:** Docker and Kubernetes enthusiast.
-- **Open Source Contributor:** Passionate about giving back to the community.
+- **CI/CD Pipeline Builder:** Crafting efficient pipelines with Jenkins, GitLab CI/CD, and more.
+- **Cloud Native Expert:** Leveraging AWS, Azure, and GCP for innovative solutions.
+- **Infrastructure as Code Advocate:** Automating infrastructure with Terraform and CloudFormation.
+- **Configuration Maestro:** Ensuring consistency with Ansible, Chef, or Puppet.
+- **Monitoring Pro:** Setting up Prometheus, Grafana, and ELK Stack for real-time insights.
+- **Scripting Wizard:** Writing Bash, Python, and PowerShell scripts to automate tasks.
+- **Security Champion:** Integrating DevSecOps practices for secure deployments.
+- **Networking Ninja:** Configuring DNS, load balancers, and firewalls with ease.
+- **Problem Solver:** Debugging and troubleshooting with precision and speed.
+- **Disaster Recovery Planner:** Implementing backup and recovery strategies for resilience.
+- **Continuous Learner:** Staying ahead with the latest DevOps trends and tools.
+- **Cost Optimizer:** Reducing cloud costs while maintaining performance and reliability.
 
 ---
 
@@ -50,22 +137,18 @@
 ### 📫 **Let's Connect!**
 <p align="left">
   <a href="https://linkedin.com/in/ganeshmankoiri" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/ganeshmankoiri" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/ganeshkoiri" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="mailto:ganeshman1515@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://instagram.com/ganeshkoiri" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com/ganeshkoiri" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="mailto:ganeshkoiri@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshmankoiri&theme=onedark" alt="Ganesh's Trophies">
-</p>
-
----
-
-<h3 align="center">Let's build the future, one pipeline at a time! 🚀</h3>
